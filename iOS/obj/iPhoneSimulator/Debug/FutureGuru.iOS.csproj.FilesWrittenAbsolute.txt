@@ -1,0 +1,17 @@
+/Users/jerryliu/Projects/FutureGuru/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/jerryliu/Projects/FutureGuru/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/jerryliu/Projects/FutureGuru/iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/jerryliu/Projects/FutureGuru/iOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/jerryliu/Projects/FutureGuru/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/jerryliu/Projects/FutureGuru/iOS/bin/iPhoneSimulator/Debug/FutureGuru.iOS.exe.mdb
+/Users/jerryliu/Projects/FutureGuru/iOS/bin/iPhoneSimulator/Debug/FutureGuru.iOS.exe
+/Users/jerryliu/Projects/FutureGuru/iOS/obj/iPhoneSimulator/Debug/FutureGuru.iOS.exe
+/Users/jerryliu/Projects/FutureGuru/iOS/obj/iPhoneSimulator/Debug/FutureGuru.iOS.exe.mdb
+/Users/jerryliu/Projects/FutureGuru/iOS/bin/iPhoneSimulator/Debug/Xamarin.Insights.dll
+/Users/jerryliu/Projects/FutureGuru/iOS/bin/iPhoneSimulator/Debug/PLCrashReporterUnifiedBinding.dll
+/Users/jerryliu/Projects/FutureGuru/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/jerryliu/Projects/FutureGuru/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/jerryliu/Projects/FutureGuru/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/jerryliu/Projects/FutureGuru/iOS/bin/iPhoneSimulator/Debug/Calabash.dll
+/Users/jerryliu/Projects/FutureGuru/iOS/bin/iPhoneSimulator/Debug/FutureGuru.dll
+/Users/jerryliu/Projects/FutureGuru/iOS/bin/iPhoneSimulator/Debug/FutureGuru.dll.mdb

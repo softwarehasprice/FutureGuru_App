@@ -1,0 +1,7 @@
+/Users/jerryliu/Projects/FutureGuru/FutureGuru/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/jerryliu/Projects/FutureGuru/FutureGuru/bin/Debug/FutureGuru.dll.mdb
+/Users/jerryliu/Projects/FutureGuru/FutureGuru/bin/Debug/FutureGuru.dll
+/Users/jerryliu/Projects/FutureGuru/FutureGuru/obj/Debug/FutureGuru.dll
+/Users/jerryliu/Projects/FutureGuru/FutureGuru/obj/Debug/FutureGuru.dll.mdb
+/Users/jerryliu/Projects/FutureGuru/FutureGuru/bin/Debug/Xamarin.Forms.Core.dll
+/Users/jerryliu/Projects/FutureGuru/FutureGuru/bin/Debug/Xamarin.Forms.Xaml.dll

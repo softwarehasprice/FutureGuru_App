@@ -1,0 +1,15 @@
+/Users/jerryliu/Projects/FutureGuru/Droid/obj/Debug/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/Users/jerryliu/Projects/FutureGuru/Droid/obj/Debug/res/drawable/monoandroidsplash.png
+/Users/jerryliu/Projects/FutureGuru/Droid/obj/Debug/res/values/styles.xml
+/Users/jerryliu/Projects/FutureGuru/Droid/bin/Debug/FutureGuru.Droid.dll.mdb
+/Users/jerryliu/Projects/FutureGuru/Droid/bin/Debug/FutureGuru.Droid.dll
+/Users/jerryliu/Projects/FutureGuru/Droid/obj/Debug/FutureGuru.Droid.dll
+/Users/jerryliu/Projects/FutureGuru/Droid/obj/Debug/FutureGuru.Droid.dll.mdb
+/Users/jerryliu/Projects/FutureGuru/Droid/bin/Debug/Xamarin.Insights.dll
+/Users/jerryliu/Projects/FutureGuru/Droid/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/jerryliu/Projects/FutureGuru/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll
+/Users/jerryliu/Projects/FutureGuru/Droid/bin/Debug/FormsViewGroup.dll
+/Users/jerryliu/Projects/FutureGuru/Droid/bin/Debug/Xamarin.Forms.Core.dll
+/Users/jerryliu/Projects/FutureGuru/Droid/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/jerryliu/Projects/FutureGuru/Droid/bin/Debug/FutureGuru.dll
+/Users/jerryliu/Projects/FutureGuru/Droid/bin/Debug/FutureGuru.dll.mdb

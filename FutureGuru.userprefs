@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="FutureGuru/FutureGuru.csproj">
+  <AuthorInfo Name="GuruTek" Email="support@stockfutureguru.com" Copyright="GuruTek" Company="GuruTek Incorp." Trademark="GuruTek" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="FutureGuru" expanded="True">
+            <Node name="FutureGuru.UITests" expanded="True">
+              <Node name="Test Apps" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
